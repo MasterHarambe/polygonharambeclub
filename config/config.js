@@ -2,7 +2,7 @@ const config = {
     app_name: 'Harambe Club NFT',
     app_description: 'Enjoy staking, breeding, P2E trading card game, tokenomics, and we plan to take over The Sandbox metaverse. 10,000 original Harambe Club NFTs are stored as ERC-721 tokens. 5,000 of them are on the Polygon Network and the other 5,000 are on the Ethereum Network. All Harambes are hosted on IPFS.',
     collection_file_name: 'harambeclub.json',
-    collection_contract_address: '0xeCbd4de8c49c6caA2bcfbc8F8B18Ecbc24F8DADe',
+    collection_contract_address: '0x5c1afcff0a3f4ca32d7a284ed4641e47825c88c6',
     collection_name: 'Harambe Club NFT',
     collection_description: 'Enjoy staking, breeding, P2E trading card game, tokenomics, and we plan to take over The Sandbox metaverse. 10,000 original Harambe Club NFTs are stored as ERC-721 tokens. 5,000 of them are on the Polygon Network and the other 5,000 are on the Ethereum Network. All Harambes are hosted on IPFS.',
     collection_id_from: 1,
